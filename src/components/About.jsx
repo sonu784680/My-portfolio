@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import sonu3 from "../assets/sonu3.avif";
+import Sonu3 from "../assets/Sonu3.avif";
 import { aboutInfo } from "../assets/assets";
 
 const About = () => {
@@ -32,7 +32,7 @@ const About = () => {
                 transition={{ duration: 0.9, ease: "easeOut" }}
                 viewport={{ once: false, amount: 0.2 }}
                 className="w-full h-full object-cover"
-                src={sonu3}
+                src={Sonu3}
                 alt="About"
               />
             </div>
