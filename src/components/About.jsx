@@ -1,7 +1,7 @@
 import React from "react";
 import { motion } from "framer-motion";
 import sonu3 from "../assets/sonu3.avif";
-import { aboutInfo } from "../assets/assets";
+import { aboutInfo } from "../assets/Assets";
 
 const About = () => {
   return (

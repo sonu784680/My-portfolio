@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import { workData } from "../assets/assets";
+import { workData } from "../assets/Assets";
 
 const Work = () => {
   return (
