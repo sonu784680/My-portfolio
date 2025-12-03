@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import Sonu1 from "../assets/Sonu1.avif";
+import sonu1 from "../assets/sonu1.avif";
 
 const Hero = () => {
   return (
@@ -53,7 +53,7 @@ const Hero = () => {
                   ease: "easeInOut",
                 }}
                 className="relative rounded-full w-64 h-64 md:w-80 md:h-80 object-cover z-10 animate-float"
-                src={Sonu1}
+                src={sonu1}
                 alt="sonu"
               />
             </div>
